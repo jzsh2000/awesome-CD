@@ -284,6 +284,7 @@ Art4
 Atp1b3
 Cd209a
 Cd300a
+Cd300c
 Clec10a
 Mgl2
 Cd302

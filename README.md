@@ -343,6 +343,7 @@
 * [ATP1B3](https://www.ncbi.nlm.nih.gov/gene/483)
 * [CLEC4M](https://www.ncbi.nlm.nih.gov/gene/10332)
 * [CD300A](https://www.ncbi.nlm.nih.gov/gene/11314)
+* [CD300C](https://www.ncbi.nlm.nih.gov/gene/10871)
 * [CLEC10A](https://www.ncbi.nlm.nih.gov/gene/10462)
 * [CD302](https://www.ncbi.nlm.nih.gov/gene/9936)
 * [CLEC4C](https://www.ncbi.nlm.nih.gov/gene/170482)
